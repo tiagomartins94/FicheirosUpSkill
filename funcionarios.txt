@@ -1,0 +1,3 @@
+Funcionário: Tiago - Vencimento: 1290;
+Funcionário: Joao - Vencimento: 54353;
+Funcionário: Maria - Vencimento: 342;

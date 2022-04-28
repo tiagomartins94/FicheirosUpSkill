@@ -1,0 +1,4 @@
+Média dos alunos: 14.0
+Alunos com nota acima da média:
+Joao:15
+Mario:17
